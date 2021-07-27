@@ -191,11 +191,6 @@ main  .box2{
 
 
 
-
-
-
-
-
 .botao{
     background-color: rgba(0,0,0,.50);
     border: none;
@@ -222,3 +217,34 @@ main  .box2{
     color: white;
 }
 
+
+#curriculo .box2{
+    background-color: azure;
+    border: 2px solid black;
+}
+
+
+
+
+#curriculo{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
+#curriculo .curso{
+    display: flex;
+    flex-direction: column;  
+
+    justify-content: space-between;
+    align-items: flex-start;
+    
+}
+
+#curriculo .data2 p{
+    margin-left: 5px;
+}
