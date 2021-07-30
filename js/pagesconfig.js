@@ -1,4 +1,3 @@
-
 $('.owl-carousel').owlCarousel({
     loop:true,
     margin:10,
@@ -7,7 +6,7 @@ $('.owl-carousel').owlCarousel({
         0:{
             items:1
         },
-        300:{
+        600:{
             items:3
         },
         1000:{
@@ -15,10 +14,3 @@ $('.owl-carousel').owlCarousel({
         }
     }
 })
-
-
-Object .onomouseover=function(){
-    
-}
-
-

@@ -17,6 +17,12 @@ body{
     
     padding: 30px;
 }
+
+p span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 /*CONFIG NAVBAR*/
 header{
     position: fixed;
@@ -299,3 +305,131 @@ main  .box2{
 
 /*==========================================*/
 
+/*Linguagens aprendidas*/
+
+#aprendizado .box3{
+    background-color: azure;
+    border-left: 2px solid black;
+    color:rgb(34, 33, 33);
+}
+
+#aprendizado .box3{
+    margin-left: 50px;
+    margin-right: 50px;
+    
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+#aprendizado .box-item{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+
+
+#aprendizado .box-items{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+
+    margin: 30px;
+}
+
+#aprendizado .box-items{
+    margin-left: 30px;
+}
+
+
+
+#aprendizado .box-items img{
+    border-radius: 80%;
+}
+
+
+/*=================================*/
+/*====Portifolio===*/
+
+#portifolio .box3{
+    background-color: rgba(128, 128, 128, 0.342);
+    border-left: 2px solid black;
+    color:rgb(34, 33, 33);
+}
+
+#portifolio .box3{
+    margin-left: 50px;
+    margin-right: 50px;
+    
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+#portifolio .box-item{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+
+
+#portifolio .box-items{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+
+    margin: 30px;
+}
+
+#portifolio .box-items{
+    margin-left: 30px;
+}
+
+
+
+#portifolio .box-items img{
+    border-radius: 80%;
+}
+
+
+
+
+
+#portifolio .box-items img{
+    border-radius: 0%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.box-filmes{
+    margin-top: 10px;
+    height: 100%;
+    width: 100%;
+    display: block;
+
+}
+
+.carrossel-wrapper{
+    margin-top: 10px;
+}
