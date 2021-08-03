@@ -8,6 +8,7 @@
     --fundo: rgba(170, 170, 170, 0.281);
     --fonte: whitesmoke;
     --preto: rgba(29, 28, 28, 0.349);
+    --backgroundgeral: rgb(29, 146, 192);;
 }
 /*CONFIG BODY*/
 body{
@@ -90,7 +91,7 @@ header .item a:hover{
 
 
 main  .box{
-    background-image: url('/img/gradient-white-green-linear-1920x1080-c2-ffffff-20b2aa-a-330-f-14.jpg');
+    background-color: var(--backgroundgeral);
     margin-top: 100px;
     margin-right: 30px;
     margin-left: 30px;
@@ -472,10 +473,10 @@ main  .box2{
 
 /*==========================================*/
 
-/*--------Rodapé---------*/
+/*--------Rodapé---------
 
 footer .rodape{
     background-color: aquamarine;
     margin-top: 10px;
     padding:100px
-}
+}*/
