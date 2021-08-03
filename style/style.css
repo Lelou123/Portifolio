@@ -329,8 +329,9 @@ main  .box2{
 
 
 #curriculo .subtitulos{
-    font-size: 25px;
-    margin-left: 20px;
+    font-size: 30px;
+    margin-left: 25px;
+    margin-top: 20px;
    
 }
 
@@ -397,7 +398,7 @@ main  .box2{
 
 /*==========================================*/
 
-/*Linguagens aprendidas*/
+/*portifolio*/
 
 #portifolio .box3{
     background-color: rgba(128, 128, 128, 0.342);
@@ -450,15 +451,9 @@ main  .box2{
 }
 
 
-
-
-
 /*==========================================*/
 
 /*box carrosel*/
-
-
-
 
 
 
@@ -472,4 +467,15 @@ main  .box2{
 
 .carrossel-wrapper{
     margin-top: 10px;
+}
+
+
+/*==========================================*/
+
+/*--------Rodapé---------*/
+
+footer .rodape{
+    background-color: aquamarine;
+    margin-top: 10px;
+    padding:100px
 }
