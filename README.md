@@ -18,5 +18,10 @@ Bem-vindo ao meu projeto portifolio feito para por em pratica conhecimentos de f
 
 ### Desktop Preview
 
-![Screenshot 2021-08-03 at 17-23-40 Murillo Júlio](https://user-images.githubusercontent.com/55301440/128081595-49c51c45-367f-4d9b-b9a0-9ffb74de0bb8.png)
+![Screenshot 2021-08-04 at 12-39-09 Murillo Júlio](https://user-images.githubusercontent.com/55301440/128211063-c8882cdf-b7d8-4614-b503-b8d6f12cb528.png)
 
+
+
+### Phone Preview
+
+![Screenshot 2021-08-04 at 12-40-05 Murillo Júlio](https://user-images.githubusercontent.com/55301440/128211123-c33da502-9204-4b22-909d-516a299e285f.png)
